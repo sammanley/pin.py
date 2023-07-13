@@ -9,11 +9,8 @@ This Python script allows you to pin a selected application window to the foregr
 :--- --- --- --- --- --- --- --- --- ---:--- --- --- --- --- --- --- --- --- ---:
 
 Dependancies:
-
-    pygetwindow: This library allows you to interact with windows on your system. You can install it by running pip install pygetwindow.
-
-    tkinter: This library provides the necessary components for creating a hidden root window. It is usually available as a built-in library with Python, so no additional installation is required.
-
-    pywin32: This library provides access to the Windows API, including window manipulation functionality. You can install it by running pip install pywin32.
-
+```
+pip install pygetwindow
+pip install pywin32
+```
 Ensure that you have these dependencies installed in your Python environment.
